@@ -1,0 +1,6 @@
+.Nav{
+  width: 60%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 3rem 0rem;
+}
