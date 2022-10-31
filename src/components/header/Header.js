@@ -1,8 +1,15 @@
 import React from "react";
-import headerStyle from "./Header.css";
+import Image from "./image/Image";
+import headerStyle from './Header.css'
 
-function Header() {
-  return <div className="Header"></div>;
+function Header () {
+  return (
+    <div className="Header">
+     <Image />
+    </div>
+  )
 }
+
+
 
 export default Header;

@@ -1,0 +1,30 @@
+.header-img{
+  width: 88px;
+  height: 88px;
+  position: relative;
+  cursor: pointer;
+}
+.header-img img{
+  display: block;
+  margin: auto;
+}
+.header-img img{
+  display: block;
+  margin: auto;
+}
+.header-img .Icon{
+  display: none;
+  border-radius: 50% ;
+  height: 100%;
+  width: inherit;
+  position: absolute;
+  bottom: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.151), rgba(0, 0, 0, 0.747));
+}
+.header-img .Icon img{
+  display: inline-block;
+  margin-top: 60px;
+}
+.header-img:hover .Icon{
+  display: flex;
+}
