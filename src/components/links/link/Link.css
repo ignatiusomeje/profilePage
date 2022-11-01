@@ -10,7 +10,7 @@
   color: #101828;
   width: 80%;
   margin: 20px auto;
-  height: 4rem;
+  min-height: 4rem;
   text-align: center;
 }
 .Link p,

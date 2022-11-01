@@ -4,3 +4,23 @@
   justify-content: flex-end;
   padding: 1rem 3rem 0rem;
 }
+
+.Nav .desktop{
+  display: unset;
+}
+.Nav .mobile{
+  display: none;
+}
+
+
+@media screen and (max-width: 743px) {
+  .Nav {
+    width: 80%;
+  }
+  .Nav .desktop{
+    display: none;
+  }
+  .Nav .mobile{
+    display: unset;
+  }
+}

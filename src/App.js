@@ -37,7 +37,7 @@ class App extends Component {
         url: "https://background.zuri.team",
         heading: "Background Check for Coders",
         description:
-          "Need a way to check up on you as a coder? then click on this to have a head start with us",
+          "Checkout the Best Background Checker for Coders",
         id: "pitch",
       },
       {
