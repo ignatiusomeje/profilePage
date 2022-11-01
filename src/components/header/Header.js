@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "./image/Image";
-import headerStyle from "./Header.css";
+import  "./Header.css";
 import Nav from "./nav/Nav";
 
 function Header(props) {

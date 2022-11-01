@@ -6,11 +6,10 @@ import "./Footer.css";
 function Footer() {
   return (
     <div className="Footer">
-      {/* <hr /> */}
       <div className="Footer-link">
-        <img src={Zuri} />
+        <img src={Zuri} alt="Zuri" />
         <p>HNG Internship 9 Frontend Task</p>
-        <img src={Ingrace} />
+        <img src={Ingrace} alt="Ingrace" />
       </div>
     </div>
   );

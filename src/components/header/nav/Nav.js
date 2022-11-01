@@ -6,11 +6,11 @@ import './Nav.css'
 function Nav(){
   return (
     <div className="Nav">
-      <a className="mobile">
-        <img src={dots}  />
+      <a className="mobile" href="#">
+        <img src={dots} alt="share btn"  />
       </a>
-      <a className= "desktop">
-        <img src={share}  />
+      <a className= "desktop" href="#">
+        <img src={share} alt="share btn" />
       </a>
     </div>
   )
