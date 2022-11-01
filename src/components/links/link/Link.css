@@ -1,0 +1,26 @@
+.Link {
+  border: 1px solid #98a2b3;
+  background-color: #eaecf0;
+  border-radius: 15px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  color: #101828;
+  width: 80%;
+  margin: 20px auto;
+  height: 4rem;
+  text-align: center;
+}
+.Link p,
+.Link h2 {
+  margin: 0;
+}
+.Link h2 {
+  font-weight: 500;
+  font-size: 18px;
+}
+.Link:hover {
+  background-color: #d0d5dd;
+}

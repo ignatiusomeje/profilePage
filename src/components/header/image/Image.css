@@ -1,30 +1,40 @@
-.header-img{
+.imgSection {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.imgSection h2 {
+  font-weight: 700;
+  font-size: 20px;
+}
+.header-img {
   width: 88px;
   height: 88px;
   position: relative;
   cursor: pointer;
 }
-.header-img img{
+.header-img img {
   display: block;
   margin: auto;
 }
-.header-img img{
+.header-img img {
   display: block;
   margin: auto;
 }
-.header-img .Icon{
+.header-img .Icon {
   display: none;
-  border-radius: 50% ;
+  border-radius: 50%;
   height: 100%;
   width: inherit;
   position: absolute;
   bottom: 0;
   background: linear-gradient(rgba(0, 0, 0, 0.151), rgba(0, 0, 0, 0.747));
 }
-.header-img .Icon img{
+.header-img .Icon img {
   display: inline-block;
   margin-top: 60px;
 }
-.header-img:hover .Icon{
+.header-img:hover .Icon {
   display: flex;
 }

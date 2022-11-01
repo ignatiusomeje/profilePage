@@ -1,17 +1,15 @@
 import React from "react";
 import Image from "./image/Image";
-import headerStyle from './Header.css'
+import headerStyle from "./Header.css";
 import Nav from "./nav/Nav";
 
-function Header () {
+function Header(props) {
   return (
     <div className="Header">
       <Nav />
-     <Image />
+      <Image name={props.user} />
     </div>
-  )
+  );
 }
-
-
 
 export default Header;
