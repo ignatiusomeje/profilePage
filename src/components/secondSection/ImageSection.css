@@ -1,0 +1,12 @@
+.ImageSection{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding: 2rem 0 3rem;
+}
+.ImageSection a{
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 1rem;
+
+}
