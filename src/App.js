@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Header from "./components/header/Header";
 import "./App.css";
 import Links from "./components/links/Links";
+import Footer from "./components/footer/Footer";
 
 class App extends Component {
   state = {
@@ -51,6 +52,7 @@ class App extends Component {
       <div className="App">
         <Header user={this.state.user} />
         <Links info={this.state.info} />
+        <Footer />
       </div>
     );
   }
