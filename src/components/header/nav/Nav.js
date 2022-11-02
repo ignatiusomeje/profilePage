@@ -1,5 +1,5 @@
 import React from "react";
-import share from './../../../assets/_Avatar share button.svg'
+import share from './../../../assets/Avatar share button.svg'
 import dots from './../../../assets/dots-horizontal.svg'
 import './Nav.css'
 
