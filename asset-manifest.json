@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/profilePage/static/css/main.7b145ec2.css",
-    "main.js": "/profilePage/static/js/main.540e02c4.js",
+    "main.js": "/profilePage/static/js/main.f41d6d29.js",
     "static/js/787.fceaaef4.chunk.js": "/profilePage/static/js/787.fceaaef4.chunk.js",
     "static/media/I4G.svg": "/profilePage/static/media/I4G.601ff0479d970c740e8b7d7ba7821548.svg",
     "static/media/lady_image_web.svg": "/profilePage/static/media/lady_image_web.0bf2cf9f59f9d289d55b9e6352476d64.svg",
@@ -9,15 +9,15 @@
     "static/media/slack.svg": "/profilePage/static/media/slack.6fa75d08a444264c64393c623e71c055.svg",
     "static/media/Social icon.svg": "/profilePage/static/media/Social icon.05ffca422514a5bbf3ac752e4d893c57.svg",
     "static/media/camera-01.svg": "/profilePage/static/media/camera-01.62b44a2e1fdb5ee06de6ac721c4d2202.svg",
-    "static/media/_Avatar share button.svg": "/profilePage/static/media/_Avatar share button.8d9a7a1c3aa3824a2781dff6eb2e77e8.svg",
+    "static/media/Avatar share button.svg": "/profilePage/static/media/Avatar share button.8d9a7a1c3aa3824a2781dff6eb2e77e8.svg",
     "static/media/dots-horizontal.svg": "/profilePage/static/media/dots-horizontal.f3e4b0e0bab9da3592ec95189dfafc97.svg",
     "index.html": "/profilePage/index.html",
     "main.7b145ec2.css.map": "/profilePage/static/css/main.7b145ec2.css.map",
-    "main.540e02c4.js.map": "/profilePage/static/js/main.540e02c4.js.map",
+    "main.f41d6d29.js.map": "/profilePage/static/js/main.f41d6d29.js.map",
     "787.fceaaef4.chunk.js.map": "/profilePage/static/js/787.fceaaef4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b145ec2.css",
-    "static/js/main.540e02c4.js"
+    "static/js/main.f41d6d29.js"
   ]
 }
